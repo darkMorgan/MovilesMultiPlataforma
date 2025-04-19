@@ -6,4 +6,4 @@ Este es un proyecto de ejemplo de una calculadora hecha en Flutter.
 
 Puedes ver el video demo de la aplicación aquí:
 
-[Ver video demo](./demo.mp4)
+[Ver video demo](./assets/demo.mp4)
